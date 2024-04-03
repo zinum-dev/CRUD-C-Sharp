@@ -1,0 +1,27 @@
+Painel de ministração
+
+Admin
+    CRUD Ministrador(a)
+    CRUD Dupla de Ministração
+    CRUD Famílias
+    CRUD Distrito
+
+Ministrador
+    Nome
+    Foto
+
+Dupla
+    Ministrador_1
+    Ministrador_2
+    Ministrador_3(opcional)
+
+Famílias
+    Membros - array
+    Endereço
+
+Distrito
+    Responsável
+    Duplas - array
+
+
+BD em arquivo
